@@ -34,6 +34,7 @@ if personSex == 1:
     minNum = 0.15
     maxNum = 0.18
 elif personSex == 0:
+    wenhao = "女士你好："
     minNum = 0.25
     maxNum = 0.28
 
