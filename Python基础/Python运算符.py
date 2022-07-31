@@ -33,3 +33,14 @@ d = [1]
 print((c == d))
 print(id(c), id(d))
 print(c is d)
+
+bool1 = True
+print(not bool1)
+
+num4 = 1
+# print(False and num4)
+print(1 or False)
+
+print(0 and True)
+
+print(1 and 4)
